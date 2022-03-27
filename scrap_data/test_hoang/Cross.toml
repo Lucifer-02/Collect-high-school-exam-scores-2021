@@ -1,0 +1,6 @@
+[build.env]
+passthrough = [
+    "PYO3_CROSS_LIB_DIR",
+	"PYO3_CROSS_VERSION",
+	"PYO3_CROSS"
+]
